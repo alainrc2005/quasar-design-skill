@@ -1,0 +1,23 @@
+# Local state
+.cache/
+.omc/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.quasar/
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
